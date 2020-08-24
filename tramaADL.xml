@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<informe version="1.1" fechaConsulta="1181336927152" respuesta="13">
+<naturalNacional nombres="BLANCA DILIA" primerApellido="ARANGO" segundoApellido="JIMENEZ" genero="3">
+<identificacion estado="00" fechaExpedicion="628405200000" ciudad="MEDELLIN" departamento="ANTIOQUIA" numero="00043559680" />
+<edad min="36" max="45" />
+<llave>100043559680</llave>
+</naturalNacional>
+<cuentaCartera
+estado="45"
+periodicidad="M"
+entidad="YANBAL DE COLOMBIA S.A."
+ultimaActualizacion="1143867600000"
+numeroObligacion="550769500"
+fechaApertura="1086066000000"
+fechaVencimiento="1133413200000"
+bloqueada="false"
+tipoObligacion="1"
+tipoCuenta="LAB"
+garante="00"
+comportamiento="CCCCCC6666665432-NNNN"
+formaPago="0"
+codSuscriptor="390003">
+<valores valorInicial="0" saldoActual="0" saldoMora="0" cuota="0" cuotasCanceladas="0" totalCuotas="0" />
+<adjetivo codigo="43" fecha="1107234000000" />
+<llave>10004355968039000339550769500000000000</llave>
+</cuentaCartera>
+</informe>
